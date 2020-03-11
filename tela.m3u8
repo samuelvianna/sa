@@ -1,4 +1,5 @@
-#EXTINF:-1, Ei Plus
+#EXTM3U
+#EXTINF:0 group-title="EI PLUS HD"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f4-v1-a1.m3u8?uid=Ki0OwB7xJgLnLgXD1lYdmaKz5IUxjbpq&sid=J9jbu4yUEMmbHL2E63qSrNSQpOc8oYuj&pid=UJcwY3DbAlemjfgcUp0J4SftVl2puZ8R&c=2633963-web&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F55&dnt=true&access_token=PKuD1SK64QsnJNbZUq2eCsbi3k15mxpFdlg7KAaeZ9eHCJ6LEt9XT6j582ACRJSpKlyK9TStc1P&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1584038377616&ot=RTIgMf5c47UdPhf96nkQ6g&proto=https&pz=us
-#EXTINF:-2, Ei Plus 1
-https://us-b4-p-e-cz3.cdn.mdstrm.com/video/h/57e2d60da17856e008aa1059/5e690ccbcbcb2b7671e443b2_5e690ccbcbcb2b7671e443bd.mp4/index-v1-a1.m3u8?cP=1893000&pid=l6TYSGon0mBr1Hwj1BIBqAStUY5ESMAP&sid=J9jbu4yUEMmbHL2E63qSrNSQpOc8oYuj&uid=Ki0OwB7xJgLnLgXD1lYdmaKz5IUxjbpq&c=2633963-web&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fvideo%2Fentrevistas%2Ftudo-ou-nada-a-historia-de-neymar-na-champions-league%2F&dnt=true&access_token=6gacWlQBitt4bL5lwmbTzVi3WjxrAhVxDZ1ULXbvO3E4p1qXric6zTurOi3EB6eIsz2Ph7Tpm6v&es=us-b4-p-e-cz3.cdn.mdstrm.com&proto=https&ote=1584038828527&ot=1TBBdxuum4ief1nYVMnrRQ
+#EXTINF:0 group-title="TNT HD"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
+https://latam2-lh.akamaihd.net/i/TNT_BRA@445599/index_720_av-p.m3u8?sd=10&rebase=on&id=AgAtQbbtyIgktvQ0aV6o8%2fufJv+TFU+2E1gDvs7B8TYe8jf1zsS5+cpWnmmbMJ3PEKqeoOoVISsq0w%3d%3d&hdntl=exp=1583974740~acl=%2f*~data=hdntl~hmac=70135b79fc8e6fbbb5188af28faa1ec202d1e16554f097a32ca9fa52d5b5640a
