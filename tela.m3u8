@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0 group-title="EI PLUS HD"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",EI PLUS CANAL 45
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f4-v1-a1.m3u8?uid=Ki0OwB7xJgLnLgXD1lYdmaKz5IUxjbpq&sid=J9jbu4yUEMmbHL2E63qSrNSQpOc8oYuj&pid=UJcwY3DbAlemjfgcUp0J4SftVl2puZ8R&c=2633963-web&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F55&dnt=true&access_token=PKuD1SK64QsnJNbZUq2eCsbi3k15mxpFdlg7KAaeZ9eHCJ6LEt9XT6j582ACRJSpKlyK9TStc1P&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1584038377616&ot=RTIgMf5c47UdPhf96nkQ6g&proto=https&pz=us
-#EI PLUS LIVERPOOL
+#EXTINF:0 group-title="EI PLUS HD"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",EI PLUS LIVERPOOL
 https://eiplus3.secure2.footprint.net/token=nva=1583976179~dirs=2~hash=070dfcc2dd17d5b7b7a18/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?uid=Ki0OwB7xJgLnLgXD1lYdmaKz5IUxjbpq&sid=woVHZlIEwnCwL7AmOOe3qGM5tjq8Q5nf&pid=lHC8tyFRYMD5ou3iSXrmL8l2LTmubIj4&c=2633963-web&ref=https%3A%2F%2Fnovo.eiplus.com.br%2Fcanal%2F45%2Fliverpool-x-atletico-de-madrid%2F&dnt=true&access_token=5TqFWU4EEyjAaxHUeQZDtNKYh1MO83gzc5RvoNjF4ODPPtAbmskMhF7UpM8g9adoliVBDZU2tRl&es=eiplus3.secure2.footprint.net/token=nva=1583976179~dirs=2~hash=070dfcc2dd17d5b7b7a18&proto=https&pz=br
